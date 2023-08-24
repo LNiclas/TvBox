@@ -460,8 +460,9 @@ CETV4,https://cntv.sbs/tv?auth=230813&id=cetv4
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8#https://cntv.sbs/tv/fhhk.php
-凤凰中文,https://epg.pw/stream/5ba3dbdeac956f68628f146391478e334a9b8117d40aa7e81fe9f0db508140d8.m3u8#https://live.goodiptv.club/api/sxg.php?id=test1_4000#https://php.61073736.repl.co/sxg.php?id=test1_4000
-凤凰资讯,https://epg.pw/stream/8851635eb172655bf52b54a66e5a3472e42e2d8f11bc3e76c8f2729adf5f40b5.m3u8#https://php.61073736.repl.co/sxg.php?id=test2_4000#https://epg.pw/stream/10657ccf76d0f20d4fe8c4596d94152ad1126b8e28537fe469f3da39c15f72fd.m3u8
+凤凰中文,https://epg.pw/stream/6abee741bcb98c35ccd61c7c0b3e15020aa10b66370005a636418d822fa81c1b.ctv
+凤凰资讯,https://epg.pw/stream/679055deefd5d79a19efa07d9c82b326995f4f568f98f2917f444a458af574e1.ctv
+viuTV,https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.m3u8
 金鷹卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8#https://epg.pw/stream/f1aea4946eefe87448db22e01529ab282370435f61d577cfc0e5c0a34b3da54f.m3u8
 CHC動作電影,https://epg.pw/stream/3ff20e8fa9db519981f1c4b9e142799416d9d9363fa816fbb870c1d09567caf4.m3u8
 CHC動作電影,https://epg.pw/stream/9f00fc4985b9fc052c04cbf5bc06476c6d12553d683786b8b172d1642332ec1c.m3u8
