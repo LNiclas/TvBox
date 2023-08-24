@@ -358,7 +358,7 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 
-港澳台
+港澳台,#genre#
 民视,mitv://generationnexxxt.com:19806/412a0c47c1014e7d85da7d2d38631eb7
 台视,mitv://generationnexxxt.com:19806/d12a80dfeb36488db100bbca6c6378e1
 大爱,mitv://generationnexxxt.com:19806/371fa10b16a84b5ca01f5bcd18ac7726
