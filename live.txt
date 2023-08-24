@@ -460,6 +460,30 @@ CETV4,https://cntv.sbs/tv?auth=230813&id=cetv4
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
 凤凰香港,https://cntv.sbs/tv/fhhk.php
+金鷹卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8#https://epg.pw/stream/f1aea4946eefe87448db22e01529ab282370435f61d577cfc0e5c0a34b3da54f.m3u8
+CHC動作電影,https://epg.pw/stream/3ff20e8fa9db519981f1c4b9e142799416d9d9363fa816fbb870c1d09567caf4.m3u8
+CHC動作電影,https://epg.pw/stream/9f00fc4985b9fc052c04cbf5bc06476c6d12553d683786b8b172d1642332ec1c.m3u8
+CHC高畫質電影,https://epg.pw/stream/b043ef09d7a1a8d98786dc758ba89fe3f6af6dd28c7af586483521755c63b966.m3u8
+CHC高畫質電影,https://epg.pw/stream/968e9fed9676f8e2b7538c5a17dc32613bc1413c255c3c7f0bd04ee9f803a563.m3u8
+CHC高畫質電影,https://epg.pw/stream/00661fdcd51ec254e327f18aecba3cffbcde94022361fdf9b6b02cee2512d4d2.m3u8
+CHC高畫質電影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e2009cdd68af5367692b0b9245.m3u8
+CHC高畫質電影,https://epg.pw/stream/d4703859b24d2e5efe98e722405d110e11df64ac629948839da9e86649648465.m3u8
+CHC高畫質電影,https://epg.pw/stream/fd7ad4af7e2d14c3f7ab037194078ce77bba37d8d488bc10d8395435b60b106f.m3u8
+CHC家庭影院,https://epg.pw/stream/55aef73b39d667f57e837970d095e74a1d32936c80e59d1ded1c36731a7a72af.m3u8
+CHC家庭影院,https://epg.pw/stream/83dcfd5396679fa0e6cd556935390d81feb0ef64a122005e24cd18a288b766fd.m3u8
+CHC家庭影院,https://epg.pw/stream/44b61f89ee09badf9fc66465a06dab496c57bf97c884a46fb1c4b1dba3ba50c9.m3u8
+CHC家庭影院,https://epg.pw/stream/17c3bf37f4426997ae0183fc051c00714ba0515dc2d8242a9cfe0edf053425d7.m3u8
+TVB无线新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
+TVB-J1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+TVB 翡翠,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+TVB-1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153396
+TVB-E,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
+TVB星河,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+TVB千禧经典,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+TVB娱乐.新闻,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153504
+VB DRAMA,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153400
+TVB JADE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153505
+FAIRCHILD 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=90352
 J2台,http://sc2022.stream-link.org/tv2306.php?id=h03
 无线新闻台,http://sc2022.stream-link.org/tv2306.php?id=h04
 无线财经体育资讯,http://sc2022.stream-link.org/tv2306.php?id=h05
