@@ -1,4 +1,4 @@
-{
+﻿{
     "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
     "wallpaper": "https://bing.img.run/rand_uhd.php",
     "logo": "http://feimao.pro/fm.gif",
@@ -331,7 +331,7 @@
             "key": "儿童",
             "name": "📚┃儿童┃启蒙",
             "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -339,7 +339,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
         },
         {
             "key": "csp_少儿",
@@ -511,7 +511,7 @@
 {
 "name": "NICLAS",
 "type": 0,
-"url": "http://cdn.gh-proxy.org/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
+"url": "http://git.yylx.win/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
 "playerType": 2,
 "epg": "https://epg.catvod.com/epg.xml?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"

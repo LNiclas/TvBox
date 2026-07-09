@@ -629,7 +629,7 @@
         {
             "name": "NICLAS",
             "type": 0,
-            "url": "https://cdn.gh-proxy.org/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
+            "url": "https://git.yylx.win/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
             "playerType": 2,
             "epg": "https://epg.catvod.com/epg.xml?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
