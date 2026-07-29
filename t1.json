@@ -1,6 +1,6 @@
-﻿{
-    "spider": "https://zl.wpscdn.cn/2026/07/13/space_img/28d95bad-f58c-4ee0-90c1-8103da37aba9.jpg;md5;dd8f442e52e1a2136d435707d3d743c9",
-    "wallpaper": "https://bing.img.run/rand_uhd.php",
+{
+    "spider": "https://zl.wpscdn.cn/2026/07/27/space_img/a3ef9fdc-e70b-4ede-8a98-bd56cd7ec65a.jpg;md5;1a95a36f4c42226187f9df4d97090f38",
+    "wallpaper": "https://bing.lbeam08.cn/img/rand?direct=true",
     "sites": [
         {
             "key": "饭太硬",
@@ -90,7 +90,7 @@
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 15,
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -117,7 +117,7 @@
             "changeable": 1,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "siteUrl": "https://www.libhd.com/"
+                "siteUrl": "https://www.libvio.pw/"
             }
         },
         {
@@ -188,12 +188,12 @@
             "key": "视界",
             "name": "🌸茉莉┃多线",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_App99Guard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
         },
         {
             "key": "播客",
@@ -638,7 +638,7 @@
         "fiizvfck.top=fan.cloudflare.182682.xyz",
         "images.67c6c7a.com=fan.cloudflare.182682.xyz"
     ],
-    "lives":   [
+    "lives": [
         {
             "name": "NICLAS",
             "type": 0,
