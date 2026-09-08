@@ -1,5 +1,5 @@
 {
-    "spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
+    "spider": "https://file.icve.com.cn/file_doc/623/368/9BF5C1F491CC633FF14E1FEE5C91DAA9.jpg;md5;9bf5c1f491cc633ff14e1fee5c91daa9",
     "wallpaper": "https://bing.lbeam08.cn/img/rand?direct=true",
     "sites": [
         {
@@ -35,7 +35,7 @@
             "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
@@ -102,6 +102,17 @@
             "api": "csp_NewCzGuard",
             "timeout": 10,
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "海绵",
+            "name": "🐬海绵┃不卡",
+            "type": 3,
+            "api": "csp_HmysGuard",
+            "timeout": 10,
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -271,16 +282,6 @@
             "changeable": 1
         },
         {
-            "key": "Anime1",
-            "name": "🐾日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "看球",
             "name": "⚽八八┃看球",
             "type": 3,
@@ -294,7 +295,7 @@
         },
         {
             "key": "多多",
-            "name": "🏀多多┃看球",
+            "name": "🏀多多┃回放",
             "type": 3,
             "api": "csp_DoubaoGuard",
             "searchable": 0,
@@ -440,7 +441,7 @@
         },
         {
             "key": "YpanSo",
-            "name": "🐟盘她┃夸父",
+            "name": "🐌盘她┃夸父",
             "type": 3,
             "api": "csp_YpanSoGuard",
             "searchable": 1,
@@ -638,7 +639,7 @@
         "fiizvfck.top=fan.cloudflare.182682.xyz",
         "images.67c6c7a.com=fan.cloudflare.182682.xyz"
     ],
-    "lives":   [
+    "lives":  [
         {
             "name": "NICLAS",
             "type": 0,
