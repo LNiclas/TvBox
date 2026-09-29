@@ -474,6 +474,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
@@ -490,6 +491,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -520,6 +522,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -536,6 +539,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -552,6 +556,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
@@ -568,6 +573,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
+            "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
