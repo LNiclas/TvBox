@@ -628,7 +628,6 @@
             "name": "NICLAS",
             "type": 0,
             "url": "https://git.yylx.win/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
-            "playerType": 1,
             "epg": "https://epg.catvod.com/epg.xml?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -636,7 +635,6 @@
             "name": "虎牙一起看",
             "type": 0,
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
-            "playerType": 1,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
         },
@@ -644,7 +642,6 @@
             "name": "斗鱼一起看",
             "type": 0,
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-            "playerType": 1,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
         },
@@ -652,7 +649,6 @@
             "name": "B站直播",
             "type": 0,
             "url": "https://sub.ottiptv.cc/bililive.m3u",
-            "playerType": 1,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
         },
@@ -660,7 +656,6 @@
             "name": "YY轮播",
             "type": 0,
             "url": "https://sub.ottiptv.cc/yylunbo.m3u",
-            "playerType": 1,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
         }
