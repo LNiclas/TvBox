@@ -629,6 +629,7 @@
             "name": "NICLAS",
             "type": 0,
             "url": "https://git.yylx.win/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
+            "playerType": 1,
             "epg": "https://epg.catvod.com/epg.xml?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -637,6 +638,7 @@
             "type": 0,
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
             "timeout": 10,
+            "playerType": 1,
             "ua": "okHttp/Mod-1.5.0.0"
         },
         {
@@ -644,6 +646,7 @@
             "type": 0,
             "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
             "timeout": 10,
+            "playerType": 1,
             "ua": "okHttp/Mod-1.5.0.0"
         },
         {
@@ -651,6 +654,7 @@
             "type": 0,
             "url": "https://sub.ottiptv.cc/bililive.m3u",
             "timeout": 10,
+            "playerType": 1,
             "ua": "okHttp/Mod-1.5.0.0"
         },
         {
@@ -658,6 +662,7 @@
             "type": 0,
             "url": "https://sub.ottiptv.cc/yylunbo.m3u",
             "timeout": 10,
+            "playerType": 1,
             "ua": "okHttp/Mod-1.5.0.0"
         }
     ]
