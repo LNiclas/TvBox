@@ -638,6 +638,42 @@
         "fiizvfck.top=fan.cloudflare.182682.xyz",
         "images.67c6c7a.com=fan.cloudflare.182682.xyz"
     ],
+    "parses": [
+        {
+            "name": "聚合解析",
+            "type": 3,
+            "url": "https://jx.789jiexi.net:4433/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        }],
     "lives": [
         {
             "name": "NICLAS",
