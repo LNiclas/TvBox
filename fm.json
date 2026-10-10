@@ -420,19 +420,9 @@
     ],
     "parses": [
         {
-            "name": "Json聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
-        {
             "name": "qiyi[官源]",
             "type": 1,
-            "url": "https://api-api.789jiexi.net/jiexi.php?url"
+            "url": "https://api-api.789jiexi.net/jiexi.php?url="
         },
         {
             "name": "五一最可爱",
