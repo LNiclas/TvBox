@@ -1,11 +1,12 @@
 {
-    "spider": "https://img2.gelonghui.com/library/674fa-d0db49a1-593c-4f60-8ad3-db726e71bfc4.png;md5;674fa106d764077a7be5cf646ea9b564",
+    "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/tboxtest/tbox/raw/fm.jpg;md5;4edf6b3d3aa01efc371027324c8adbff",
+    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "wallpaper": "https://bing.lbeam08.cn/img/rand?direct=true",
-      "logo": "http://w.junce.dpdns.org/fm.gif",
+    "logo": "http://w.junce.dpdns.org/fm.gif",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃五一肥喵喵┃",
+            "name": "🐼┃五一喵喵喵┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -15,7 +16,7 @@
             "name": "🐼┃豆瓣┃预告",
             "type": 3,
             "api": "csp_YGP",
-            "playerType": 2,
+            "playerType": 1,
             "searchable": 0
         },
         {
@@ -23,7 +24,6 @@
             "name": "🐼┃配置┃中心",
             "type": 3,
             "api": "csp_Config",
-            "playerType": 2
         },
         {
             "key": "csp_FeiMaoUC",
@@ -207,7 +207,7 @@
             "name": "🍉┃瓜子┃影视",
             "type": 3,
             "api": "csp_Gz360",
-            "playerType": 1
+            "playerType": 2
         },
         {
             "key": "厂长",
@@ -425,7 +425,7 @@
         },
         {
             "key": "push_agent",
-            "name": "QQ频道：肥猫宝贝",
+            "name": "推送",
             "type": 3,
             "api": "csp_Push",
             "playerType": "1",
@@ -450,7 +450,7 @@
             "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
         },
         {
-            "name": "肥猫最可爱",
+            "name": "肥猫喵喵",
             "type": 1,
             "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
             "ext": {
