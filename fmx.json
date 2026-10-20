@@ -1,12 +1,12 @@
 {
     "spider": "https://cdn09022024.gitlink.org.cn/api/v1/repos/tboxtest/tbox/raw/fm.jpg;md5;4edf6b3d3aa01efc371027324c8adbff",
-    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+    "danmaku": "http://xn--z7x900a.net/danmu5266/auto.php?name={name}&episode={episode}",
     "wallpaper": "https://bing.lbeam08.cn/img/rand?direct=true",
     "logo": "http://w.junce.dpdns.org/fm.gif",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃五一喵喵喵┃",
+            "name": "🐱┃五一喵喵喵┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
