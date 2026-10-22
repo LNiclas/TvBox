@@ -628,7 +628,7 @@
         {
             "name": "NICLAS",
             "type": 0,
-            "url": "https://git.yylx.win/https://github.com/LNiclas/TvBox/raw/refs/heads/main/live.m3u",
+            "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/tboxtest/tbox/raw/live.m3u",
             "playerType": 1,
             "epg": "https://epg.catvod.com/epg.xml?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
